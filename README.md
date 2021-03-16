@@ -10,6 +10,7 @@ My name is Michael Podolsky, and I am a senior in high school who resides in Las
 
 ### Contact Me
 - Email - **michaelspodolsky@gmail.com**
+- My Website - [**mikepodo.net**](https://www.mikepodo.net)
 - LinkedIn - [**Mike Podolsky**](https://www.linkedin.com/in/mikepodo/)
 - Discord - **MikePodolsky#8550**
 <!--
