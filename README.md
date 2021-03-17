@@ -15,6 +15,7 @@ My name is Michael Podolsky, and I am a senior in high school who resides in Las
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
