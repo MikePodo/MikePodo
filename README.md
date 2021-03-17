@@ -1,14 +1,14 @@
-### Hey!
+## Hey!
 
 My name is Michael Podolsky, and I am a senior in high school who resides in Las Vegas, Nevada. I am a musician and have been playing the guitar for 9 years. I taught myself to code due to my fascination with technology, and I'm always eager to continue my learning in order to become the best programmer I can be!
 
-### I Am Currently Working On... 
+## I Am Currently Working On... 
 
 - [Fight](https://fighttm.com) - A social media and tournament hosting platform for gamers made using MERN stack.
 - [NomΛd](https://vhomesgroup.com/) - A prop-tech startup disrupting the budget homesharing industry.
 - [BrikPay](https://brikpay.io/) - A leading escrow service helping manage home renovation projects by protecting investments made by both homeowners and contractors.
 
-### Contact Me
+## Contact Me
 - Email - **michaelspodolsky@gmail.com**
 - My Website - [**mikepodo.net**](https://www.mikepodo.net)
 - LinkedIn - [**Mike Podolsky**](https://www.linkedin.com/in/mikepodo/)
