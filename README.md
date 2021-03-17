@@ -8,6 +8,9 @@ My name is Michael Podolsky, and I am a senior in high school who resides in Las
 - [NomΛd](https://vhomesgroup.com/) - A prop-tech startup disrupting the budget homesharing industry.
 - [BrikPay](https://brikpay.io/) - A leading escrow service helping manage home renovation projects by protecting investments made by both homeowners and contractors.
 
+## Github Stats
+![Mikes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikepodo&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&bg_color=000)
+
 ## Contact Me
 - Email - **michaelspodolsky@gmail.com**
 - My Website - [**mikepodo.net**](https://www.mikepodo.net)
