@@ -4,9 +4,9 @@ My name is Michael Podolsky, and I am a senior in high school who resides in Las
 
 ## I Am Currently Working On... 
 
-- [Fight](https://fighttm.com) - A social media and tournament hosting platform for gamers made using MERN stack.
-- [NomΛd](https://visitnomad.com/) - A prop-tech startup disrupting the budget homesharing industry.
-- [BrikPay](https://brikpay.io/) - A leading escrow service helping manage home renovation projects by protecting investments made by both homeowners and contractors.
+- Chief Technology Officer at [Fight](https://fighttm.com) - A social media and tournament hosting platform for gamers made using MERN stack.
+- Lead Frontend Developer at [NomΛd](https://visitnomad.com/) - A prop-tech startup disrupting the budget homesharing industry.
+- Software Engineer Intern at [BrikPay](https://brikpay.io/) - A leading escrow service helping manage home renovation projects by protecting investments made by both homeowners and contractors.
 
 ## Technologies I've Been Using Recently
 
