@@ -1,6 +1,6 @@
 ## Hey!
 
-My name is Michael Podolsky, and I am a senior in high school who resides in Las Vegas, Nevada. I am a musician and have been playing the guitar for 9 years. I taught myself to code due to my fascination with technology, and I'm always eager to continue my learning in order to become the best programmer I can be!
+My name is Michael Podolsky, and I am a senior in high school who resides in Las Vegas, Nevada. I am a musician and have been playing the guitar for 9 years. I taught myself to how code due to my fascination with technology, and I'm always eager to continue my learning in order to become a better programmer!
 
 ## I Am Currently Working On... 
 
