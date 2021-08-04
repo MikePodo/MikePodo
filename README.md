@@ -5,7 +5,6 @@ My name is Michael Podolsky, and I am a senior in high school who resides in Las
 ## I Am Currently Working On... 
 
 - Chief Technology Officer at [Fight](https://fighttm.com) - A social media and tournament hosting platform for gamers made using MERN stack.
-- Frontend Engineer at [Curastory](https://www.curastory.co/) - A platform for athletes that allows creators to shoot and edit high-quality video, monetize shows, and distribute to all of their video channels, 100% free.
 
 ## Technologies I've Been Using Recently
 
