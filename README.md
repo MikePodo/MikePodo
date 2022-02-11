@@ -8,12 +8,17 @@ My name is Michael Podolsky, and I am a freshman studying computer science at th
 
 ## Technologies I've Been Using Recently
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=c98ff2)
+![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=007ac3)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=2f9ed1)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=Sass)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
