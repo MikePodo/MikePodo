@@ -17,6 +17,7 @@ My name is Michael Podolsky, and I am a freshman studying computer science at th
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=c98ff2)
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=007ac3)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=007ac3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=2f9ed1)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=Sass)
