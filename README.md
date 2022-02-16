@@ -21,6 +21,7 @@ My name is Michael Podolsky, and I am a freshman studying computer science at th
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=2f9ed1)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=Sass)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
