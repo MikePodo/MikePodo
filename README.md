@@ -28,6 +28,7 @@ My name is Michael Podolsky, and I am a freshman studying computer science at th
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=F05032)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=339933)
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&logoColor=F05032)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=F05032)
 
 ## Github Stats
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikepodo&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&bg_color=000)
