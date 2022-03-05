@@ -1,6 +1,6 @@
 ## Hey there!
 
-My name is Michael Podolsky, and I am a freshman studying computer science at the University of Las Vegas, Nevada. I am a musician and have been playing the guitar for 9 years. I taught myself how to code due to my fascination with technology, and I'm always eager to continue my learning in order to become a better programmer!
+My name is Michael Podolsky, and I am a freshman studying computer science at the University of Las Vegas, Nevada. I am a musician and have been playing the guitar for over half my life. I taught myself how to code due to my fascination with technology, and I'm always eager to continue my learning in order to become a better programmer!
 
 ## I Am Currently Working On
 
