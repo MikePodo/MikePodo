@@ -2,12 +2,12 @@
 
 My name is Michael Podolsky, and I am a freshman studying computer science at the University of Las Vegas, Nevada. I am a musician and have been playing the guitar for over half my life. I taught myself how to code due to my fascination with technology, and I'm always eager to continue my learning in order to become a better programmer!
 
-## I Am Currently Working On
+## I Am Currently Working On...
 
 - Chief Technology Officer at [Fight](https://fighttm.com) - A social media and tournament hosting platform for gamers made using MERN stack.
 - CS50 (HarvardX) - An introduction to the intellectual enterprises of computer science and the art of programming.
 
-## Technologies I've Been Using Recently
+## Technologies I've Been Using Recently:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
@@ -30,11 +30,11 @@ My name is Michael Podolsky, and I am a freshman studying computer science at th
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=F05032)
 
-## Github Stats
+## Github Stats:
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikepodo&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&bg_color=000)
 ![Mike's Github graph](https://activity-graph.herokuapp.com/graph?username=MikePodo&theme=react-dark&line=aaaaaa&&bg_color=000000&color=ffffff)
 
-## Contact Me
+## Contact Me:
 - Email - **michaelspodolsky@gmail.com**
 - Website - [**mikepodo.net**](https://www.mikepodo.net)
 - LinkedIn - [**Mike Podolsky**](https://www.linkedin.com/in/mikepodo/)
