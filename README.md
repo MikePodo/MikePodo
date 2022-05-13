@@ -37,5 +37,5 @@ My name is Michael Podolsky, and I am a freshman studying computer science at th
 ## Contact Me:
 - Email - **michaelspodolsky@gmail.com**
 - Website - [**mikepodo.net**](https://www.mikepodo.net)
-- LinkedIn - [**Mike Podolsky**](https://www.linkedin.com/in/mikepodo/)
+- LinkedIn - [**Michael Podolsky**](https://www.linkedin.com/in/mikepodo/)
 - Discord - **MikePodolsky#8550**
