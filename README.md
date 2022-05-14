@@ -31,10 +31,12 @@ My name is Michael Podolsky, and I am a freshman studying computer science at th
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=F05032)
 
 ## Github Stats:
+
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikepodo&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&bg_color=000)
 ![Mike's GitHub graph](https://activity-graph.herokuapp.com/graph?username=MikePodo&theme=react-dark&line=aaaaaa&&bg_color=000000&color=ffffff)
 
 ## Contact Me:
+
 - Email - **michaelspodolsky@gmail.com**
 - Website - [**mikepodo.net**](https://www.mikepodo.net)
 - LinkedIn - [**Michael Podolsky**](https://www.linkedin.com/in/mikepodo/)
