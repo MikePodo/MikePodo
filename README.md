@@ -5,7 +5,6 @@ My name is Michael Podolsky, and I am a freshman studying computer science at th
 ## I Am Currently Working On...
 
 - Chief Technology Officer at [Fight](https://fighttm.com) - A social media and tournament hosting platform for gamers made using MERN stack.
-- CS50 ([HarvardX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)) - An introduction to the intellectual enterprises of computer science and the art of programming.
 
 ## Technologies I've Been Using Recently:
 
