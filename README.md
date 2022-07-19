@@ -1,10 +1,11 @@
 ## Hey there!
 
-My name is Michael Podolsky, and I am a freshman studying computer science at the University of Las Vegas, Nevada. I am a musician and have been playing the guitar for over half my life. I taught myself how to code due to my fascination with technology, and I'm always eager to continue my learning in order to become a better programmer!
+My name is Michael Podolsky, a sophomore studying computer science at the University of Las Vegas, Nevada. I taught myself how to code due to my fascination with technology, and I'm always eager to continue my learning in order to become a better programmer!
 
 ## I Am Currently Working On...
 
 - Chief Technology Officer at [Fight](https://fighttm.com) - A social media and tournament hosting platform for gamers made using MERN stack.
+- Independent Contractor at [Upwork](https://www.upwork.com/) - Working on an assortment of web and mobile apps using React.
 
 ## Technologies I've Been Using Recently:
 
