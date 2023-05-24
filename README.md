@@ -40,4 +40,3 @@ My name is Michael Podolsky, a sophomore studying computer science at the Univer
 - Website - [**mikepodo.net**](https://www.mikepodo.net)
 - Email - **michaelspodolsky@gmail.com**
 - LinkedIn - [**Michael Podolsky**](https://www.linkedin.com/in/mikepodo/)
-- Discord - **MikePodolsky#8550**
