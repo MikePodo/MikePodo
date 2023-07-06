@@ -1,6 +1,6 @@
 ## Hey there!
 
-My name is Michael Podolsky, a sophomore studying computer science at the University of Nevada, Las Vegas. I taught myself how to code due to my fascination with technology, and I'm always eager to continue my learning in order to become a better programmer!
+My name is Michael Podolsky, a junior studying computer science at the University of Nevada, Las Vegas. I taught myself how to code due to my fascination with technology, and I'm always eager to continue my learning in order to become a better programmer!
 
 <!-- ## I Am Currently Working On...
 
