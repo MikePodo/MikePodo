@@ -31,10 +31,6 @@ My name is Michael Podolsky, a junior studying computer science at the Universit
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=F05032)
 
-## Github Stats:
-
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikepodo&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&bg_color=000)
-
 ## Contact Me:
 
 - Website - [**mikepodo.net**](https://www.mikepodo.net)
